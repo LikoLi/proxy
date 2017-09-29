@@ -1,4 +1,4 @@
-package org.liko.framework.service.proxy;
+package org.liko.framework.service.staticproxy;
 
 import org.liko.framework.service.ISomeService;
 import org.liko.framework.service.SomeServiceImpl;
